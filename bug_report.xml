@@ -1,0 +1,15 @@
+<bug_report>
+  <ID>1</ID>
+  <Severity>Trivial</Severity>
+  <Priority>Low</Priority>
+  <Environment>MacBook Pro M1 16/512 MacOS Ventura</Environment>
+  <Title>Bug 1</Title>
+  <Precondition>example</Precondition>
+  <Steps>
+    <the_first>example</the_first>
+    <the_second>example</the_second>
+    <the_third>example</the_third>
+  </Steps>
+  <actual_result>example</actual_result>
+  <expected_result>example</expected_result>
+</bug_report>
